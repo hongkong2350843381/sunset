@@ -1,0 +1,14 @@
+C:\Users\86156\Desktop\学习资料\复习资料\3day\bin\Debug\net8.0\3day.exe
+C:\Users\86156\Desktop\学习资料\复习资料\3day\bin\Debug\net8.0\3day.deps.json
+C:\Users\86156\Desktop\学习资料\复习资料\3day\bin\Debug\net8.0\3day.runtimeconfig.json
+C:\Users\86156\Desktop\学习资料\复习资料\3day\bin\Debug\net8.0\3day.dll
+C:\Users\86156\Desktop\学习资料\复习资料\3day\bin\Debug\net8.0\3day.pdb
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.AssemblyInfoInputs.cache
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.AssemblyInfo.cs
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.csproj.CoreCompileInputs.cache
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.dll
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\refint\3day.dll
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.pdb
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\3day.genruntimeconfig.cache
+C:\Users\86156\Desktop\学习资料\复习资料\3day\obj\Debug\net8.0\ref\3day.dll

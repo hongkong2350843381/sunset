@@ -1,0 +1,14 @@
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\bin\Debug\net8.0\5daync.exe
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\bin\Debug\net8.0\5daync.deps.json
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\bin\Debug\net8.0\5daync.runtimeconfig.json
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\bin\Debug\net8.0\5daync.dll
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\bin\Debug\net8.0\5daync.pdb
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.AssemblyInfoInputs.cache
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.AssemblyInfo.cs
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.csproj.CoreCompileInputs.cache
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.dll
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\refint\5daync.dll
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.pdb
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\5daync.genruntimeconfig.cache
+C:\Users\86156\Desktop\学习资料\复习资料\5daync\obj\Debug\net8.0\ref\5daync.dll

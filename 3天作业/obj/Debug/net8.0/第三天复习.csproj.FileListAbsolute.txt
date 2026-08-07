@@ -1,0 +1,14 @@
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.AssemblyInfoInputs.cache
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.AssemblyInfo.cs
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.csproj.CoreCompileInputs.cache
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\bin\Debug\net8.0\第三天复习.exe
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\bin\Debug\net8.0\第三天复习.deps.json
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\bin\Debug\net8.0\第三天复习.runtimeconfig.json
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\bin\Debug\net8.0\第三天复习.dll
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\bin\Debug\net8.0\第三天复习.pdb
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.dll
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\refint\第三天复习.dll
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.pdb
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\第三天复习.genruntimeconfig.cache
+C:\Users\86156\Desktop\学习资料\复习资料\第三天复习\obj\Debug\net8.0\ref\第三天复习.dll
